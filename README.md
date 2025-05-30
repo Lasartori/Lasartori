@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Lasartori
-- 👀 I’m interested in technology and I love to code.I'm very at the beggining but hope so much to learn a lot
-- 🌱 I’m currently learning java, HTML and javascript, in the future I intend to learn Python
-- 💞️ I’m looking to collaborate on almost every thing I can
+- 🌱 I’m currently focusing on learning Python, Django, Machine Learning and AI.
 - 📫 How to reach me - You can e-mail me at lasartori03@gmail.com
 
 <!---
