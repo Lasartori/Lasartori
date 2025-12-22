@@ -16,4 +16,4 @@ Email me at [lasartori03@gmail.com](mailto:lasartori03@gmail.com)
 
 
 
-
+![snake gif](https://github.com/Lasartori/Lasartori/blob/output/github-snake-dark.svg)
