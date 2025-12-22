@@ -15,4 +15,5 @@ I'm a passionate developer diving deep into modern tech stacks, from full-stack 
 Email me at [lasartori03@gmail.com](mailto:lasartori03@gmail.com)
 
 
-![Snake animation](https://github.com/Lasartori/Lasartori/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake eating contributions](https://github.com/Lasartori/Lasartori/blob/output/github-contribution-grid-snake-full.svg)
+
