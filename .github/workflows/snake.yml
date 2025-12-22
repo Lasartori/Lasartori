@@ -9,10 +9,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: Platane/snk@master
-        id: snake-gif
+        id: snake-svg
         with:
           github_user_name: Lasartori
           svg_out_path: dist/github-contribution-grid-snake-dark.svg
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-full.svg?color_snake=orange&color_dots=#ebedf0,#ebedf0,#ebedf0,#9be9a8,#40c463
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
