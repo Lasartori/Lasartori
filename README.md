@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @Lasartori
-- 🌱 I’m currently focusing on learning Python, Django, Machine Learning and AI.
-- 📫 How to reach me - You can e-mail me at lasartori03@gmail.com
+# 👋 Hi, I'm Lasartori!
 
-<!---
-Lasartori/Lasartori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate developer diving deep into modern tech stacks, from full-stack development to cloud and DevOps. Always eager to build scalable solutions and learn new tools.
+
+## 🌱 Currently Learning & Skills
+
+- **Frontend**: React, JavaScript, Angular, HTML5, CSS3
+- **Backend**: Python (Django), Java (Spring Boot), Node.js
+- **Databases**: PostgreSQL, MySQL
+- **Cloud/DevOps**: AWS, Docker, Kubernetes, CI/CD, Terraform
+- **Platforms**: Zendesk, Freshdesk
+- **Other Tools**: Git, Agile/Scrum, RESTful APIs, Grafana
+
+## 📫 Get in Touch
+Email me at [lasartori03@gmail.com](mailto:lasartori03@gmail.com)
+
+
