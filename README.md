@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lasartori!
 
-I'm a passionate developer diving deep into modern tech stacks, from full-stack development to cloud and DevOps. Always eager to build scalable solutions and learn new tools.
+I'm a passionate full-stack developer with hands-on experience building scalable web applications and cloud-native solutions. I love turning complex ideas into clean, efficient code—whether it's crafting responsive UIs, optimizing backend APIs, or automating deployments with modern DevOps tools. Currently diving deeper into AI/ML integration and advanced cloud architectures to create intelligent, production-ready systems.
 
 ## 🌱 Currently Learning & Skills
 
